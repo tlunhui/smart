@@ -10,10 +10,10 @@
         <module name="test" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="smart" target="1.5" />
-      <module name="smartframework" target="1.5" />
-      <module name="test" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="smart" target="1.8" />
+      <module name="smartframework" target="1.8" />
+      <module name="test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
