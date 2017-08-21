@@ -79,11 +79,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReflectionUnit.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReflectionUnit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/smartframework/src/main/java/org/smart4j/framework/util/ReflectionUnit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+            <state relative-caret-position="290">
+              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeanHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/smartframework/src/main/java/org/smart4j/framework/helper/BeanHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1087#1088#0" expanded="true" />
+                <element signature="e#1118#1119#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IocHelper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/smartframework/src/main/java/org/smart4j/framework/helper/IocHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="20" column="52" lean-forward="true" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,16 +127,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/smartframework/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ClassUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/smartframework/src/main/java/org/smart4j/framework/util/ClassUtil.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -121,20 +137,6 @@
                 <element signature="e#1344#1354#0" expanded="true" />
                 <element signature="e#3936#3937#0" expanded="true" />
                 <element signature="e#3987#3988#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/smartframework/src/test/java/TestDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -189,6 +191,8 @@
         <option value="$PROJECT_DIR$/smartframework/src/main/java/org/smart4j/framework/annotation/Service.java" />
         <option value="$PROJECT_DIR$/smartframework/src/main/java/org/smart4j/framework/helper/ClassHelper.java" />
         <option value="$PROJECT_DIR$/smartframework/src/main/java/org/smart4j/framework/util/ReflectionUnit.java" />
+        <option value="$PROJECT_DIR$/smartframework/src/main/java/org/smart4j/framework/helper/BeanHelper.java" />
+        <option value="$PROJECT_DIR$/smartframework/src/main/java/org/smart4j/framework/helper/IocHelper.java" />
       </list>
     </option>
   </component>
@@ -284,6 +288,26 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smart" type="462c0819:PsiDirectoryNode" />
+              <item name="smartframework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="helper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smart" type="462c0819:PsiDirectoryNode" />
+              <item name="smartframework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="smart" type="b2602c69:ProjectViewProjectNode" />
@@ -488,7 +512,7 @@
       <workItem from="1502163256614" duration="15605000" />
       <workItem from="1502435795451" duration="5609000" />
       <workItem from="1502680461240" duration="18094000" />
-      <workItem from="1502853251559" duration="26791000" />
+      <workItem from="1502853251559" duration="36855000" />
     </task>
     <servers />
   </component>
@@ -525,7 +549,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66099000" />
+    <option name="totallyTimeSpent" value="76163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -874,8 +898,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/smartframework/src/main/java/org/smart4j/framework/util/ReflectionUnit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        <state relative-caret-position="290">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smartframework/src/main/java/org/smart4j/framework/helper/BeanHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1087#1088#0" expanded="true" />
+            <element signature="e#1118#1119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smartframework/src/main/java/org/smart4j/framework/helper/IocHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="20" column="52" lean-forward="true" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
